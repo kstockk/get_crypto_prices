@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 import sys
 from datetime import datetime
 from cryptocmd import CmcScraper
